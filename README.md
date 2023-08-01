@@ -38,4 +38,4 @@ O cliente web foi implementado com HTML, CSS e JavaScript. Utilizamos `fetch` pa
 
 - O projeto é apenas uma demonstração e pode ser expandido e aprimorado para atender a requisitos específicos.
 
-Se você tiver alguma dúvida ou precisar de mais assistência, sinta-se à vontade para entrar em contato. Bom aprendizado!
+Se você tiver alguma dúvida ou precisar de mais assistência, sinta-se à vontade para entrar em contato.
