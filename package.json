@@ -1,0 +1,22 @@
+{
+  "name": "nuti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./public/server.js",
+  "scripts": {
+    "start": "nodemon .",
+    "init-db": "node ./db/init.js"
+  },
+  "keywords": [],
+  "author": "LuizFelipeVPCrema",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsdom": "^22.1.0",
+    "nodemon": "^3.0.1",
+    "sqlite": "^5.0.1",
+    "sqlite3": "^5.1.6"
+  }
+}
